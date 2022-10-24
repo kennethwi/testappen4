@@ -11,10 +11,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
 
-        <h1>
-          DENNA BRANCH INNEHÅLLER MASSA Treor 3333333333333 3 333333333333
-          33333333
-        </h1>
+        <h1>DENNA BRANCH ÄR MAIN OCH HAR INTE MASSA SIFFROR HÄR</h1>
 
         <a
           className="App-link"
